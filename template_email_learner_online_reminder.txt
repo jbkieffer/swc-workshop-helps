@@ -23,7 +23,7 @@ Also make sure that your web browser of choice is up to date.
 
 5. Create a free Zoom account at https://zoom.us/meetings or confirm sign-in to your institutional Zoom account. You will need to be signed in to Zoom to attend the workshop.
 
-6. Install the Zoom app for your operating system or update your existing installation. This will provide you with a better workshop experience than Zoom in a browser or on a mobile device. Full directions are at https://kansas.zoom.us/ or at https://zoom.us/download#client_4meeting for learners not affiliated with KU. 
+6. Install the Zoom app for your operating system or update your existing installation. This will provide you with a better workshop experience than Zoom in a browser or on a mobile device. Full directions are at https://kansas.zoom.us/ or, for learners not affiliated with KU, at https://zoom.us/download#client_4meeting. 
 
 7. Register for and attend the Zoom drop-in office hours on [day/date/time] at [Zoom registration link] to check your software installation or get help with any problems.
 
