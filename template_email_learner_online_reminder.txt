@@ -1,10 +1,13 @@
 ﻿Greetings!
-We are looking forward to seeing you [days and dates], for Software Carpentry @ KU.
-Please read this email completely; it contains important information you'll need for participating in the workshop.
 
-Software Carpentry workshops are usually held in person; the face-to-face instruction, feedback, and assistance is important to their success. Due to COVID-19, we are attempting to deliver this workshop online. We hope that it works but be aware that some difficulties may arise that are tough to resolve remotely. We will all do the best we can. Below are some instructions for preparing for the workshop. **Take special note of the Zoom office hours for software install on [day/time].** It's important that we resolve setup issues BEFORE the start of instruction; please join the Zoom office hours if you're having trouble or want to check your installation.
+We are looking forward to seeing you [days and dates], for Software Carpentry at KU.
+This email contains important information and instructions you'll need for participating in the workshop.
+
+Software Carpentry workshops are usually held in person. Due to COVID-19, we are delivering this workshop online and are working hard to make it successful. However, some technical difficulties may arise that are tough to resolve remotely. We will all do the best we can. 
+
+**Take special note of the Zoom office hours for software install in step 7 below.** It's important that we resolve setup issues BEFORE the start of instruction; please join the Zoom office hours if you're having trouble or want to check your installation.
  
-Steps to prepare for the workshop:
+Here are the steps to prepare for the workshop:
 
 1. Take the pre-workshop survey. This will take between 5 and 10 minutes. We use these results to tailor this workshop and improve future workshops.
 [insert link]
@@ -15,13 +18,16 @@ https://kulibraries.github.io/[workshop-name]/
 3. Install required software for the workshop, or update any installations you already have. You will need the Bash Shell, Git, a text editor, and Anaconda, which is an all-in-one installer for Python. Full directions based on your operating system and links to downloads are at 
 https://kulibraries.github.io/[workshop-name]/#setup
 
-4. Create a free GitHub account or refresh access to your existing account. Also make sure that your web browser of choice is up to date.
+4. Create a free GitHub account or refresh access to your existing account. Guidance on GitHub accounts is available in the Git section of Setup: https://kulibraries.github.io/[workshop-name]/#setup. 
+Also make sure that your web browser of choice is up to date.
 
-5. Install the Zoom app for your operating system or update your existing installation. This will provide you with a better workshop experience than Zoom in a browser or on a mobile device. Full directions are at https://kansas.zoom.us/
+5. Create a free Zoom account at https://zoom.us/meetings or confirm sign-in to your institutional Zoom account. You will need to be signed in to Zoom to attend the workshop.
 
-5. Attend the Zoom office hours on [day/time] at [Zoom registration link] to check your software installation or get help with any problems.
+6. Install the Zoom app for your operating system or update your existing installation. This will provide you with a better workshop experience than Zoom in a browser or on a mobile device. Full directions are at https://kansas.zoom.us/ or at https://zoom.us/download#client_4meeting for learners not affiliated with KU. 
 
-6. Attend the workshop beginning on [day/time]. The Zoom link and password will be sent to you via Eventbrite the day before the workshop begins.
+7. Register for and attend the Zoom drop-in office hours on [day/date/time] at [Zoom registration link] to check your software installation or get help with any problems.
+
+8. Attend the workshop beginning on [day/time]. The Zoom link and password will be sent to you via Eventbrite the day before the workshop begins.
  
 If you find that you are unable to attend, please cancel your registration through your Eventbrite ticket no later than 8:30am on [cancellation day] so that someone on the wait list has a chance to attend.
  
