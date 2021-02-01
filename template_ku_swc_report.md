@@ -10,11 +10,15 @@
 
 **Date:**	[human-readable date]
 
-**Foundation Member:**	Great Plains Network
+**Foundation Member:**	University of Kansas
 
 **Host Institution:**	University of Kansas
 
 **Website:**	[github website url]
+
+**Etherpad:**	[Etherpad url]
+
+**Attendance Visualization:**	[Tableau Public attendance viz url]
 
 
 ## Curriculum
